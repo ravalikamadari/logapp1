@@ -1,0 +1,74 @@
+[
+  {
+    "name": "CreateTag",
+    "path": "/CreateTag",
+    "component": "C:\\\\Users\\\\Nspira\\\\Documents\\\\logapp1\\\\pages\\\\CreateTag.vue",
+    "chunkName": "pages/CreateTag"
+  },
+  {
+    "name": "log",
+    "path": "/log",
+    "component": "C:\\\\Users\\\\Nspira\\\\Documents\\\\logapp1\\\\pages\\\\log\\\\index.vue",
+    "chunkName": "pages/log/index"
+  },
+  {
+    "name": "LoginPage",
+    "path": "/LoginPage",
+    "component": "C:\\\\Users\\\\Nspira\\\\Documents\\\\logapp1\\\\pages\\\\LoginPage.vue",
+    "chunkName": "pages/LoginPage"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "C:\\\\Users\\\\Nspira\\\\Documents\\\\logapp1\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile"
+  },
+  {
+    "name": "tag",
+    "path": "/tag",
+    "component": "C:\\\\Users\\\\Nspira\\\\Documents\\\\logapp1\\\\pages\\\\tag\\\\index.vue",
+    "chunkName": "pages/tag/index"
+  },
+  {
+    "name": "user-management",
+    "path": "/user-management",
+    "component": "C:\\\\Users\\\\Nspira\\\\Documents\\\\logapp1\\\\pages\\\\user-management\\\\index.vue",
+    "chunkName": "pages/user-management/index"
+  },
+  {
+    "name": "user-management-CreateUser",
+    "path": "/user-management/CreateUser",
+    "component": "C:\\\\Users\\\\Nspira\\\\Documents\\\\logapp1\\\\pages\\\\user-management\\\\CreateUser.vue",
+    "chunkName": "pages/user-management/CreateUser"
+  },
+  {
+    "name": "user-management-form",
+    "path": "/user-management/form",
+    "component": "C:\\\\Users\\\\Nspira\\\\Documents\\\\logapp1\\\\pages\\\\user-management\\\\form.vue",
+    "chunkName": "pages/user-management/form"
+  },
+  {
+    "name": "user-management-UpdateUser",
+    "path": "/user-management/UpdateUser",
+    "component": "C:\\\\Users\\\\Nspira\\\\Documents\\\\logapp1\\\\pages\\\\user-management\\\\UpdateUser.vue",
+    "chunkName": "pages/user-management/UpdateUser"
+  },
+  {
+    "name": "log-id",
+    "path": "/log/:id",
+    "component": "C:\\\\Users\\\\Nspira\\\\Documents\\\\logapp1\\\\pages\\\\log\\\\_id.vue",
+    "chunkName": "pages/log/_id"
+  },
+  {
+    "name": "user-management-id",
+    "path": "/user-management/:id?",
+    "component": "C:\\\\Users\\\\Nspira\\\\Documents\\\\logapp1\\\\pages\\\\user-management\\\\_id.vue",
+    "chunkName": "pages/user-management/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Nspira\\\\Documents\\\\logapp1\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
